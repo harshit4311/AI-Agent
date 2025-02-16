@@ -7,7 +7,7 @@ main = Blueprint("main", __name__)
 # /hello endpoint
 @main.route("/hello", methods=["GET"])
 def hello():
-    return jsonify({"message": "hello, our API is working"})
+    return jsonify({"message": "hello, our API is working..."})
 
 
 # /call endpoint

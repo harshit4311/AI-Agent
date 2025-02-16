@@ -13,6 +13,7 @@ def create_app():
     print("Following are your credentials:")
     print("Twilio SID:", os.getenv("TWILIO_SID"))
     print("Twilio Auth Token:", os.getenv("TWILIO_AUTH_TOKEN"))
+    print("ELEVENLABS_API_KEY:", os.getenv("ELEVENLABS_API_KEY"))  # Debugging check
     
     # Register routes
     app.register_blueprint(main)
