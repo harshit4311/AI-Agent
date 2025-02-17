@@ -106,3 +106,9 @@ http://127.0.0.1:5000/call
 }
 ```
 
+## 🎥 Demo Video
+
+Check out the demo video showcasing the AI-powered voice call functionality:
+
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/1TwLmM9v0N6xRwXoxf9bQMZ0qQyXsXN_7/view?usp=sharing)
+
